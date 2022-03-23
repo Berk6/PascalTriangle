@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+uxU31/YioP/bzaLZJGLiwy+x6KkLZcrKrmssNJbfUs7WToiv1dYojT7uIx6rrdmfYU0dgTDrFNEMJVrl8nBlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\berk.karasu\\Downloads\\PascalTriangle\\PascalTriangle\\PascalTriangle\\PascalTriangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berk.karasu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

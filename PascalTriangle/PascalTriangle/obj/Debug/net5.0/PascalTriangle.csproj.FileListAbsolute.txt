@@ -1,0 +1,31 @@
+C:\Users\Berk\Desktop\C# Codes\PascalTriangle\PascalTriangle\bin\Debug\net5.0\PascalTriangle.exe
+C:\Users\Berk\Desktop\C# Codes\PascalTriangle\PascalTriangle\bin\Debug\net5.0\PascalTriangle.deps.json
+C:\Users\Berk\Desktop\C# Codes\PascalTriangle\PascalTriangle\bin\Debug\net5.0\PascalTriangle.runtimeconfig.json
+C:\Users\Berk\Desktop\C# Codes\PascalTriangle\PascalTriangle\bin\Debug\net5.0\PascalTriangle.runtimeconfig.dev.json
+C:\Users\Berk\Desktop\C# Codes\PascalTriangle\PascalTriangle\bin\Debug\net5.0\PascalTriangle.dll
+C:\Users\Berk\Desktop\C# Codes\PascalTriangle\PascalTriangle\bin\Debug\net5.0\ref\PascalTriangle.dll
+C:\Users\Berk\Desktop\C# Codes\PascalTriangle\PascalTriangle\bin\Debug\net5.0\PascalTriangle.pdb
+C:\Users\Berk\Desktop\C# Codes\PascalTriangle\PascalTriangle\obj\Debug\net5.0\PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\Desktop\C# Codes\PascalTriangle\PascalTriangle\obj\Debug\net5.0\PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\Berk\Desktop\C# Codes\PascalTriangle\PascalTriangle\obj\Debug\net5.0\PascalTriangle.AssemblyInfo.cs
+C:\Users\Berk\Desktop\C# Codes\PascalTriangle\PascalTriangle\obj\Debug\net5.0\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Berk\Desktop\C# Codes\PascalTriangle\PascalTriangle\obj\Debug\net5.0\PascalTriangle.dll
+C:\Users\Berk\Desktop\C# Codes\PascalTriangle\PascalTriangle\obj\Debug\net5.0\ref\PascalTriangle.dll
+C:\Users\Berk\Desktop\C# Codes\PascalTriangle\PascalTriangle\obj\Debug\net5.0\PascalTriangle.pdb
+C:\Users\Berk\Desktop\C# Codes\PascalTriangle\PascalTriangle\obj\Debug\net5.0\PascalTriangle.genruntimeconfig.cache
+C:\Users\berk.karasu\Downloads\PascalTriangle-main\PascalTriangle\PascalTriangle\bin\Debug\net5.0\PascalTriangle.exe
+C:\Users\berk.karasu\Downloads\PascalTriangle-main\PascalTriangle\PascalTriangle\bin\Debug\net5.0\PascalTriangle.deps.json
+C:\Users\berk.karasu\Downloads\PascalTriangle-main\PascalTriangle\PascalTriangle\bin\Debug\net5.0\PascalTriangle.runtimeconfig.json
+C:\Users\berk.karasu\Downloads\PascalTriangle-main\PascalTriangle\PascalTriangle\bin\Debug\net5.0\PascalTriangle.runtimeconfig.dev.json
+C:\Users\berk.karasu\Downloads\PascalTriangle-main\PascalTriangle\PascalTriangle\bin\Debug\net5.0\PascalTriangle.dll
+C:\Users\berk.karasu\Downloads\PascalTriangle-main\PascalTriangle\PascalTriangle\bin\Debug\net5.0\ref\PascalTriangle.dll
+C:\Users\berk.karasu\Downloads\PascalTriangle-main\PascalTriangle\PascalTriangle\bin\Debug\net5.0\PascalTriangle.pdb
+C:\Users\berk.karasu\Downloads\PascalTriangle-main\PascalTriangle\PascalTriangle\obj\Debug\net5.0\PascalTriangle.csproj.AssemblyReference.cache
+C:\Users\berk.karasu\Downloads\PascalTriangle-main\PascalTriangle\PascalTriangle\obj\Debug\net5.0\PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berk.karasu\Downloads\PascalTriangle-main\PascalTriangle\PascalTriangle\obj\Debug\net5.0\PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\berk.karasu\Downloads\PascalTriangle-main\PascalTriangle\PascalTriangle\obj\Debug\net5.0\PascalTriangle.AssemblyInfo.cs
+C:\Users\berk.karasu\Downloads\PascalTriangle-main\PascalTriangle\PascalTriangle\obj\Debug\net5.0\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\berk.karasu\Downloads\PascalTriangle-main\PascalTriangle\PascalTriangle\obj\Debug\net5.0\PascalTriangle.dll
+C:\Users\berk.karasu\Downloads\PascalTriangle-main\PascalTriangle\PascalTriangle\obj\Debug\net5.0\ref\PascalTriangle.dll
+C:\Users\berk.karasu\Downloads\PascalTriangle-main\PascalTriangle\PascalTriangle\obj\Debug\net5.0\PascalTriangle.pdb
+C:\Users\berk.karasu\Downloads\PascalTriangle-main\PascalTriangle\PascalTriangle\obj\Debug\net5.0\PascalTriangle.genruntimeconfig.cache
