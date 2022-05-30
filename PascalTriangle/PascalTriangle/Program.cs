@@ -38,14 +38,11 @@ namespace Fibonacci
                 dizi[i] = 1;
             }
             int sayi1 = 1;
-          
             WriteAt($"{sayi1}", 3 * (sira+1), 10);
             WriteAt($"{sayi1}", 3 * sira, 12);
             WriteAt($"{sayi1}", 3 * (sira + 2), 12);
-        
             for (int i = 3; i < sira + 1; i++)
             {
-
                 for (int j = 0; j < i; j++)
                 {
                     if (j < i / 2)
@@ -55,16 +52,10 @@ namespace Fibonacci
                     else
                     {
                         dizi[j] = dizi[i - j - 1];
-
                     }
                     WriteAt($"{dizi[j]}", 3 * (sira - i + 2 + j * 2), 2 * (i+4));
-
                 }
             }
-
-
-
-
         }
     }
 }
